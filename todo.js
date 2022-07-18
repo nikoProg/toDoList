@@ -1,11 +1,4 @@
-/*make buttons to add and remove things from the todo list*/
-//let newDiv = document.createElement('div');
-//newDiv.className = 'neke klase';
-//newDiv.classList.add('nekeDruge klase');
-//document.body.appendChild(newDiv);
-//list.appendChild(newDiv);
 
-//OVO JE BIBLIJA!!! sledeca 5 reda!
 let myDiv = document.createElement("div");
 let text = document.createTextNode(" ");
 myDiv.appendChild(text);
